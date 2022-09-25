@@ -1,3 +1,4 @@
+# Funcionamiento de los lenguajes de programación
 ![image](https://user-images.githubusercontent.com/82009638/192127849-de850423-cce0-45ae-94ee-d8018457a21d.png)
 > HTML: No es un lenguaje de programación, es un lenguaje de etiquetado, lenguaje de marcas, sirve para estructurar una pagina, no maneja datos.
 
