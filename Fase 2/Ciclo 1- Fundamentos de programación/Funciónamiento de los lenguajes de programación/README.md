@@ -10,7 +10,9 @@
 	1. El lenguaje más demandado es JAVA pero no es el más pagado
 	2. El lenguaje más pagado es RUBY 
 	3. El más popular va cambiando, por el momento puede ser JS
+	
 ![image](https://user-images.githubusercontent.com/82009638/192127873-7adf5316-8f2b-44c9-8b1a-721c3c24fc86.png)
+
 	• Python: Mundo web, Sistemas, análisis de datos,  juegos. Empleado: YouTube, Spotify, Instagram
 	• JS: Solo en el mundo web y video juegos. Empleado: Paypal, nodeJS, forcue
 	• PHP: Solo mundo web. Empleado: FaceBook, wikipedia, flicker
@@ -20,7 +22,9 @@
 	• C: Empleado: La gran mayoria de sistemas unix, 
 	• C++: Funciona para todo Empleado: microsoft office, firefox, google, adobe
 	C#: Empleado: paint.net, la aplicación de los hacker profesional
+	
 ![image](https://user-images.githubusercontent.com/82009638/192127888-7bc573d7-bb99-4d6c-8a99-da64a568b9ed.png)
+
 	No casarse con un IDE o con un jenguaje de programación o de etiqueta
 
 
